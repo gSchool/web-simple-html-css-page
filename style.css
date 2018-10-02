@@ -1,11 +1,11 @@
 h1 {
-  font-family: Times;
-  font-size: 32px;
-  color: green;
+  font-family: Arial;
+  font-size: 48px;
+  color: yellow;
 }
 
 p {
-  font-family: Arial;
+  font-family: Impact;
   font-size: 16px;
-  color: darkgreen;
+  color: chartreuse;
 }
