@@ -1,11 +1,36 @@
+body {
+  background-color: red;
+}
+a:hover {
+  color: orange;
+}
+main {
+  background-color: #000000;
+  border: 2px solid yellow;
+  width: 500px;
+  margin: auto;
+}
+
 h1 {
-  font-family: Times;
-  font-size: 32px;
+  font-family: 'Pacifico', serif;
+  font-size: 60px;
+  color: silver;
+  text-align: center;
+  font-size: 3rem;
+}
+h2 {
+  font-family: 'Pacifico', serif;
+  font-size: 60px;
+  color: silver;
+  text-align: center;
+  font-size: 1rem;
+}
+p {
+  font-family: 'Oswald', sans-serif;
+    font-size: 16px;
   color: green;
 }
 
-p {
-  font-family: Arial;
-  font-size: 16px;
-  color: darkgreen;
+img {
+  width: 100%;
 }
