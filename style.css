@@ -1,11 +1,21 @@
-h1 {
-  font-family: Arial;
-  font-size: 48px;
-  color: yellow;
+body {
+  background-color: red;
 }
 
-p {
-  font-family: Impact;
-  font-size: 16px;
-  color: chartreuse;
+main {
+  background-color: #000000;
+  border: 2px solid yellow;
+  width: 500px;
+  margin: auto;
+}
+
+h1 {
+  color: silver;
+  text-align: center;
+  font-size: 3rem;
+}
+
+
+img {
+  width: 100%;
 }
