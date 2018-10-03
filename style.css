@@ -1,7 +1,9 @@
 body {
   background-color: red;
 }
-
+a:hover {
+  color: orange;
+}
 main {
   background-color: #000000;
   border: 2px solid yellow;
