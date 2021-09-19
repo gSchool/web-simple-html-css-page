@@ -2,4 +2,6 @@
 
 This is a very simple introduction to the code that makes up a web page.
 
+## Image Content
+
 ![](img/imgReadme.png)
