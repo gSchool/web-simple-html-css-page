@@ -2,4 +2,4 @@
 
 This is a very simple introduction to the code that makes up a web page.
 
-![alt text](http://url/imgReadme.png)
+![Alt text](relative/path/to/imgReadme.png?raw=true "Image Content")
